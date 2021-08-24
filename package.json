@@ -1,0 +1,31 @@
+{
+  "name": "M6D2_-Marketplace_Postgres",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingrid-oncken/M6D2_-Marketplace_Postgres.git"
+  },
+  "keywords": [],
+  "author": "Ingrid Oncken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingrid-oncken/M6D2_-Marketplace_Postgres/issues"
+  },
+  "homepage": "https://github.com/ingrid-oncken/M6D2_-Marketplace_Postgres#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
